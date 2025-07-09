@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, I’m learning to code!</h1>
+  <p id="message">This is my first webpage on my phone.</p>
+  <button onclick="changeText()">Click Me!</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
